@@ -1,9 +1,7 @@
 <h1>Circular Select</h1>
 <p>A custom look circular select with circular options. The options are opened with an animation effect and have different background color blending from the first option to the last one. The text inside is aligned with the circular bottom edge of the option. </p> 
 ##Demo
-[open](https://jsfiddle.net/gl_awog/j2am0g57/1/embedded/result/)
-
-https://jsfiddle.net/gl_awog/pbe9fnk5/5/embedded/result/
+[open](https://jsfiddle.net/gl_awog/pbe9fnk5/12/embedded/result/)
 
 ##Dependencies
 1. [Css warp plugin](https://github.com/dirkweber/csswarp.js) for aligning text along a curve.
