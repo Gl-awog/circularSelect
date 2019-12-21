@@ -3,6 +3,8 @@
 ##Demo
 [open](https://jsfiddle.net/gl_awog/j2am0g57/1/embedded/result/)
 
+https://jsfiddle.net/gl_awog/pbe9fnk5/5/embedded/result/
+
 ##Dependencies
 1. [Css warp plugin](https://github.com/dirkweber/csswarp.js) for aligning text along a curve.
 2. [Color-js plugin](https://github.com/brehaut/color-js) for working with hsl color model.
